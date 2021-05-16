@@ -17,6 +17,7 @@ Currently this project is in its 0.1 beta stage, the following stages are planne
 
 ## Docs
 [Installation](./docs/installation.md)
+[Usage](./docs/usage.md)
 
 ## Thanks
 The development on the demo above uses [Unity-Chan Kagura](https://unity-chan.com/contents/news/unitychankagura/). Thanks for the wonderful model!
