@@ -15,7 +15,6 @@ public class VirtualCamCoordinator : MonoBehaviour
         int i = 0;
         for (; i < cameraList.Length; i++)
         {
-            Debug.Log("initializing camera: " + i);
             if (i > 0)
             {
                 cameraList[i - 1].gameObject.SetActive(false);
