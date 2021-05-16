@@ -16,8 +16,8 @@ Currently this project is in its 0.1 beta stage, the following stages are planne
 5. Add LAN support to use a special device/mobile phone to do remote control on the applications
 
 ## Docs
-[Installation](./docs/installation.md)
-[Usage](./docs/usage.md)
+- [Installation](./docs/installation.md)
+- [Usage](./docs/Usage.md)
 
 ## Thanks
 The development on the demo above uses [Unity-Chan Kagura](https://unity-chan.com/contents/news/unitychankagura/). Thanks for the wonderful model!
